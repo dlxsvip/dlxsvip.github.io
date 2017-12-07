@@ -1,1 +1,11 @@
 theme: jekyll-theme-time-machine
+
+email:ylyan126@126.com
+description:"为了发布曾经使用过的技术"
+keyword:"Blog，技术，程序猿"
+url:"https://dlxsvip.github.io/"
+baseurl:""
+
+#Sidebar settings
+sidebar:true      
+sidebar-about-description:"....淫荡的分割线"
